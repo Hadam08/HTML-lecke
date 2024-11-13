@@ -1,0 +1,96 @@
+#main_title {
+    color: #1f2729;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    text-align: center;
+    position:relative;
+    text-decoration:overline;
+    text-decoration-color: #1f2729;
+    
+    
+}
+header{
+    background-color: aquamarine;
+    padding-top:30px;
+    position:relative;
+    padding-left: 750px;
+    padding-right: 750px;
+
+
+}
+  body{
+    background-color:#1f2729;
+
+}
+  #homebuttonimage{
+     position: fixed;
+     left:20px;
+     
+    
+  }
+  #homebutton{
+    border: none;
+   background:none;
+   position: fixed;
+   left: 20px;
+  }
+  #aboutmeimage{
+    position: fixed;
+    left:120px;
+    top: 36px;
+    
+   
+ }
+ #aboutmebutton{
+   border: none;
+  background:none;
+  position: fixed;
+  left: 120px;
+ }
+ #aboutmebuttonimage2 {
+    width: 320px;
+    border: 20px;
+    position:fixed;
+    top: 200px;
+    left: 250spx;
+    border-style:groove;
+    border-color: aqua;
+    
+
+ }
+ #socialbuttonimage2 {
+    width: 320px;
+    border: 20px;
+    left: 750px;
+    top: 200px;
+    position: fixed;
+    border-style:groove;
+    border-color: aqua;
+ }
+#socialbutton{
+    border: none;
+    background:none;
+    position: fixed;
+    left: 220px;
+}
+#logo{
+  position: fixed;
+  right: 50px;
+    
+}
+
+#ninebutton{
+    border: none;
+    background:none;
+    position: fixed;
+    left: 320px;
+}
+#ninebuttonimage2 {
+    width: 320px;
+    border: 20px;
+    position:fixed;
+    top: 200px;
+    right: 250px;
+    border-style:groove;
+    border-color: aqua;
+ }
